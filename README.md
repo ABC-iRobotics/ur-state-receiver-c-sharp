@@ -1,0 +1,2 @@
+TCP/IP portot figyelő program, mely naplózza a UR simulator koordinátáit és más információkat. A naplózni kívánt adatokat a "states.json" file-ban kell beállítani, az adott "state"-nél a "visible" értéket "true"-ra kell átírni. Ez után másodpercentént naplózza az adatokat, minden egyes program indításnál új txt-t generál
+IP cím a UR simulator About tabjában. Ha át kell állítani azt a Program.cs-ben lehet.
